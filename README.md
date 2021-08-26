@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on GWM
 - 🌱 I’m currently learning Compose
 - 📫 How to reach me: zzaskurazz@gmail.com
-- ✍️ Blogger: https://haysc.tech
+- ✍️ Blogger: https://zzsakurazz.cn/
 
