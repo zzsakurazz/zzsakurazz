@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GWM
-- 🌱 I’m currently learning Compose
-- 📫 How to reach me: zzaskurazz@gmail.com
-- ✍️ Blogger: https://zzsakurazz.cn/
+- 🔭  I’m currently working on GWM
+- 🌱  I’m currently learning Compose
+- 📫  How to reach me: zzaskurazz@gmail.com
+- ✍️  Blogger: https://zzsakurazz.cn/
 
